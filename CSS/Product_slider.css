@@ -1,0 +1,85 @@
+.visible {
+    display: block;
+}
+
+.hidden {
+    display: none;
+}
+
+.product-desc {
+    font-weight: bold;
+    padding: 10px 0px;
+}
+
+.product-desc h4 {
+    margin: 0;
+    color: #446AAF;
+    font-size: 16px;
+}
+
+.product-desc p {
+    color: #3C3F39;
+    margin: 10px 0px 8px;
+}
+
+.jscarousal-horizontal {
+    width: 80%;
+    overflow: hidden;
+    height: 50%;
+    padding: 30px 15px;
+    position: absolute;
+    /* left: 50%; */
+    /* top: 50%; */
+    /* transform: translate(-50%, -50%); */
+}
+
+.jscarousal-horizontal-forward {
+    float: right;
+}
+
+.jscarousal-horizontal-back:before,
+.jscarousal-horizontal-forward:before {
+    font-family: FontAwesome;
+}
+
+.jscarousal-horizontal-back:before {
+    content: "\f053";
+}
+
+.jscarousal-horizontal-forward:before {
+    content: "\f054";
+}
+
+.jscarousal-contents-horizontal {
+    width: calc(100% - 50px);
+    height: 100%;
+    float: left;
+    position: relative;
+    overflow: hidden;
+}
+
+.jscarousal-contents-horizontal>.visible {
+    position: absolute;
+    width: 100%;
+}
+
+.jscarousal-contents-horizontal>.visible>.product-box {
+    float: left;
+    margin: 0px 1%;
+    width: 18%;
+}
+
+.jscarousal-contents-horizontal img {
+    width: 100%;
+}
+
+.jscarousal-horizontal-back,
+.jscarousal-horizontal-forward {
+    float: left;
+    /* width: 23px; */
+    position: relative;
+    top: 132px;
+    cursor: pointer;
+    color: #000000;
+    font-size: 25px;
+}

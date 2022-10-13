@@ -1,0 +1,315 @@
+[27-Apr-2022 00:01:50 UTC] PHP Warning:  require(/home/smartind/public_html/kapada/config.php): failed to open stream: No such file or directory in /home/smartind/public_html/Kapada/send/add-to-cart-send.php on line 10
+[27-Apr-2022 00:01:50 UTC] PHP Warning:  require(/home/smartind/public_html/kapada/config.php): failed to open stream: No such file or directory in /home/smartind/public_html/Kapada/send/add-to-cart-send.php on line 10
+[27-Apr-2022 00:01:50 UTC] PHP Fatal error:  require(): Failed opening required '/home/smartind/public_html/kapada/config.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/smartind/public_html/Kapada/send/add-to-cart-send.php on line 10
+[27-Apr-2022 00:02:02 UTC] PHP Warning:  require(/home/smartind/public_html/kapada/config.php): failed to open stream: No such file or directory in /home/smartind/public_html/Kapada/send/add-to-cart-send.php on line 10
+[27-Apr-2022 00:02:02 UTC] PHP Warning:  require(/home/smartind/public_html/kapada/config.php): failed to open stream: No such file or directory in /home/smartind/public_html/Kapada/send/add-to-cart-send.php on line 10
+[27-Apr-2022 00:02:02 UTC] PHP Fatal error:  require(): Failed opening required '/home/smartind/public_html/kapada/config.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/smartind/public_html/Kapada/send/add-to-cart-send.php on line 10
+[27-Apr-2022 02:16:49 UTC] PHP Warning:  require(/home/smartind/public_html/kapada/config.php): failed to open stream: No such file or directory in /home/smartind/public_html/Kapada/send/add-to-cart-send.php on line 10
+[27-Apr-2022 02:16:49 UTC] PHP Warning:  require(/home/smartind/public_html/kapada/config.php): failed to open stream: No such file or directory in /home/smartind/public_html/Kapada/send/add-to-cart-send.php on line 10
+[27-Apr-2022 02:16:49 UTC] PHP Fatal error:  require(): Failed opening required '/home/smartind/public_html/kapada/config.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/smartind/public_html/Kapada/send/add-to-cart-send.php on line 10
+[30-Apr-2022 04:25:21 UTC] PHP Warning:  require(/home/smartind/public_html/kapada/config.php): failed to open stream: No such file or directory in /home/smartind/public_html/Kapada/send/be_delete.php on line 2
+[30-Apr-2022 04:25:21 UTC] PHP Warning:  require(/home/smartind/public_html/kapada/config.php): failed to open stream: No such file or directory in /home/smartind/public_html/Kapada/send/be_delete.php on line 2
+[30-Apr-2022 04:25:21 UTC] PHP Fatal error:  require(): Failed opening required '/home/smartind/public_html/kapada/config.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/smartind/public_html/Kapada/send/be_delete.php on line 2
+[30-Apr-2022 04:25:25 UTC] PHP Warning:  require(/home/smartind/public_html/kapada/config.php): failed to open stream: No such file or directory in /home/smartind/public_html/Kapada/send/be_delete.php on line 2
+[30-Apr-2022 04:25:25 UTC] PHP Warning:  require(/home/smartind/public_html/kapada/config.php): failed to open stream: No such file or directory in /home/smartind/public_html/Kapada/send/be_delete.php on line 2
+[30-Apr-2022 04:25:25 UTC] PHP Fatal error:  require(): Failed opening required '/home/smartind/public_html/kapada/config.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/smartind/public_html/Kapada/send/be_delete.php on line 2
+[30-Apr-2022 04:32:55 UTC] PHP Warning:  require(/home/smartind/public_html/kapada/config.php): failed to open stream: No such file or directory in /home/smartind/public_html/Kapada/send/be_delete.php on line 2
+[30-Apr-2022 04:32:55 UTC] PHP Warning:  require(/home/smartind/public_html/kapada/config.php): failed to open stream: No such file or directory in /home/smartind/public_html/Kapada/send/be_delete.php on line 2
+[30-Apr-2022 04:32:55 UTC] PHP Fatal error:  require(): Failed opening required '/home/smartind/public_html/kapada/config.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/smartind/public_html/Kapada/send/be_delete.php on line 2
+[30-Apr-2022 04:32:58 UTC] PHP Warning:  require(/home/smartind/public_html/kapada/config.php): failed to open stream: No such file or directory in /home/smartind/public_html/Kapada/send/be_delete.php on line 2
+[30-Apr-2022 04:32:58 UTC] PHP Warning:  require(/home/smartind/public_html/kapada/config.php): failed to open stream: No such file or directory in /home/smartind/public_html/Kapada/send/be_delete.php on line 2
+[30-Apr-2022 04:32:58 UTC] PHP Fatal error:  require(): Failed opening required '/home/smartind/public_html/kapada/config.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/smartind/public_html/Kapada/send/be_delete.php on line 2
+[30-Apr-2022 04:35:55 UTC] PHP Warning:  include(../call/be_inferface_call.php): failed to open stream: No such file or directory in /home/smartind/public_html/Kapada/send/be_delete.php on line 3
+[30-Apr-2022 04:35:55 UTC] PHP Warning:  include(../call/be_inferface_call.php): failed to open stream: No such file or directory in /home/smartind/public_html/Kapada/send/be_delete.php on line 3
+[30-Apr-2022 04:35:55 UTC] PHP Warning:  include(): Failed opening '../call/be_inferface_call.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/smartind/public_html/Kapada/send/be_delete.php on line 3
+[30-Apr-2022 04:35:55 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/smartind/public_html/Kapada/headers/header_2.php:4) in /home/smartind/public_html/Kapada/send/be_delete.php on line 53
+[30-Apr-2022 04:38:07 UTC] PHP Warning:  include(../call/be_inferface_call.php): failed to open stream: No such file or directory in /home/smartind/public_html/Kapada/send/be_delete.php on line 3
+[30-Apr-2022 04:38:07 UTC] PHP Warning:  include(../call/be_inferface_call.php): failed to open stream: No such file or directory in /home/smartind/public_html/Kapada/send/be_delete.php on line 3
+[30-Apr-2022 04:38:07 UTC] PHP Warning:  include(): Failed opening '../call/be_inferface_call.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/smartind/public_html/Kapada/send/be_delete.php on line 3
+[30-Apr-2022 04:38:07 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/smartind/public_html/Kapada/headers/header_2.php:4) in /home/smartind/public_html/Kapada/send/be_delete.php on line 53
+[30-Apr-2022 04:38:56 UTC] PHP Warning:  include(../call/be_inferface_call.php): failed to open stream: No such file or directory in /home/smartind/public_html/Kapada/send/be_delete.php on line 3
+[30-Apr-2022 04:38:56 UTC] PHP Warning:  include(../call/be_inferface_call.php): failed to open stream: No such file or directory in /home/smartind/public_html/Kapada/send/be_delete.php on line 3
+[30-Apr-2022 04:38:56 UTC] PHP Warning:  include(): Failed opening '../call/be_inferface_call.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/smartind/public_html/Kapada/send/be_delete.php on line 3
+[30-Apr-2022 04:38:56 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/smartind/public_html/Kapada/headers/header_2.php:4) in /home/smartind/public_html/Kapada/send/be_delete.php on line 53
+[30-Apr-2022 04:39:13 UTC] PHP Warning:  include(../call/be_inferface_call.php): failed to open stream: No such file or directory in /home/smartind/public_html/Kapada/send/be_delete.php on line 3
+[30-Apr-2022 04:39:13 UTC] PHP Warning:  include(../call/be_inferface_call.php): failed to open stream: No such file or directory in /home/smartind/public_html/Kapada/send/be_delete.php on line 3
+[30-Apr-2022 04:39:13 UTC] PHP Warning:  include(): Failed opening '../call/be_inferface_call.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/smartind/public_html/Kapada/send/be_delete.php on line 3
+[30-Apr-2022 04:39:13 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/smartind/public_html/Kapada/headers/header_2.php:4) in /home/smartind/public_html/Kapada/send/be_delete.php on line 53
+[30-Apr-2022 04:39:46 UTC] PHP Warning:  include(../call/be_inferface_call.php): failed to open stream: No such file or directory in /home/smartind/public_html/Kapada/send/be_delete.php on line 3
+[30-Apr-2022 04:39:46 UTC] PHP Warning:  include(../call/be_inferface_call.php): failed to open stream: No such file or directory in /home/smartind/public_html/Kapada/send/be_delete.php on line 3
+[30-Apr-2022 04:39:46 UTC] PHP Warning:  include(): Failed opening '../call/be_inferface_call.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/smartind/public_html/Kapada/send/be_delete.php on line 3
+[30-Apr-2022 04:39:46 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/smartind/public_html/Kapada/headers/header_2.php:4) in /home/smartind/public_html/Kapada/send/be_delete.php on line 53
+[09-May-2022 21:59:13 UTC] PHP Warning:  require(/home/smartind/public_html/kapada/config.php): failed to open stream: No such file or directory in /home/smartind/public_html/Kapada/send/checkout_page_send.php on line 2
+[09-May-2022 21:59:13 UTC] PHP Warning:  require(/home/smartind/public_html/kapada/config.php): failed to open stream: No such file or directory in /home/smartind/public_html/Kapada/send/checkout_page_send.php on line 2
+[09-May-2022 21:59:13 UTC] PHP Fatal error:  require(): Failed opening required '/home/smartind/public_html/kapada/config.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/smartind/public_html/Kapada/send/checkout_page_send.php on line 2
+[09-May-2022 21:59:25 UTC] PHP Warning:  require(/home/smartind/public_html/kapada/config.php): failed to open stream: No such file or directory in /home/smartind/public_html/Kapada/send/checkout_page_send.php on line 2
+[09-May-2022 21:59:25 UTC] PHP Warning:  require(/home/smartind/public_html/kapada/config.php): failed to open stream: No such file or directory in /home/smartind/public_html/Kapada/send/checkout_page_send.php on line 2
+[09-May-2022 21:59:25 UTC] PHP Fatal error:  require(): Failed opening required '/home/smartind/public_html/kapada/config.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/smartind/public_html/Kapada/send/checkout_page_send.php on line 2
+[25-May-2022 04:16:43 UTC] PHP Warning:  require(/home/smartind/Kapada/kapada/config.php): failed to open stream: No such file or directory in /home/smartind/Kapada/send/checkout_page_send.php on line 2
+[25-May-2022 04:16:43 UTC] PHP Warning:  require(/home/smartind/Kapada/kapada/config.php): failed to open stream: No such file or directory in /home/smartind/Kapada/send/checkout_page_send.php on line 2
+[25-May-2022 04:16:43 UTC] PHP Fatal error:  require(): Failed opening required '/home/smartind/Kapada/kapada/config.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/smartind/Kapada/send/checkout_page_send.php on line 2
+[25-May-2022 04:20:10 UTC] PHP Warning:  require(/home/smartind/Kapada/kapada/config.php): failed to open stream: No such file or directory in /home/smartind/Kapada/send/order_confirmation.php on line 2
+[25-May-2022 04:20:10 UTC] PHP Warning:  require(/home/smartind/Kapada/kapada/config.php): failed to open stream: No such file or directory in /home/smartind/Kapada/send/order_confirmation.php on line 2
+[25-May-2022 04:20:10 UTC] PHP Fatal error:  require(): Failed opening required '/home/smartind/Kapada/kapada/config.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/smartind/Kapada/send/order_confirmation.php on line 2
+[25-May-2022 04:20:12 UTC] PHP Warning:  require(/home/smartind/Kapada/kapada/config.php): failed to open stream: No such file or directory in /home/smartind/Kapada/send/order_confirmation.php on line 2
+[25-May-2022 04:20:12 UTC] PHP Warning:  require(/home/smartind/Kapada/kapada/config.php): failed to open stream: No such file or directory in /home/smartind/Kapada/send/order_confirmation.php on line 2
+[25-May-2022 04:20:12 UTC] PHP Fatal error:  require(): Failed opening required '/home/smartind/Kapada/kapada/config.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/smartind/Kapada/send/order_confirmation.php on line 2
+[25-May-2022 04:20:14 UTC] PHP Warning:  require(/home/smartind/Kapada/kapada/config.php): failed to open stream: No such file or directory in /home/smartind/Kapada/send/order_confirmation.php on line 2
+[25-May-2022 04:20:14 UTC] PHP Warning:  require(/home/smartind/Kapada/kapada/config.php): failed to open stream: No such file or directory in /home/smartind/Kapada/send/order_confirmation.php on line 2
+[25-May-2022 04:20:14 UTC] PHP Fatal error:  require(): Failed opening required '/home/smartind/Kapada/kapada/config.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/smartind/Kapada/send/order_confirmation.php on line 2
+[25-May-2022 04:20:15 UTC] PHP Warning:  require(/home/smartind/Kapada/kapada/config.php): failed to open stream: No such file or directory in /home/smartind/Kapada/send/order_confirmation.php on line 2
+[25-May-2022 04:20:15 UTC] PHP Warning:  require(/home/smartind/Kapada/kapada/config.php): failed to open stream: No such file or directory in /home/smartind/Kapada/send/order_confirmation.php on line 2
+[25-May-2022 04:20:15 UTC] PHP Fatal error:  require(): Failed opening required '/home/smartind/Kapada/kapada/config.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/smartind/Kapada/send/order_confirmation.php on line 2
+[25-May-2022 04:20:15 UTC] PHP Warning:  require(/home/smartind/Kapada/kapada/config.php): failed to open stream: No such file or directory in /home/smartind/Kapada/send/order_confirmation.php on line 2
+[25-May-2022 04:20:15 UTC] PHP Warning:  require(/home/smartind/Kapada/kapada/config.php): failed to open stream: No such file or directory in /home/smartind/Kapada/send/order_confirmation.php on line 2
+[25-May-2022 04:20:15 UTC] PHP Fatal error:  require(): Failed opening required '/home/smartind/Kapada/kapada/config.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/smartind/Kapada/send/order_confirmation.php on line 2
+[25-May-2022 04:25:50 UTC] PHP Warning:  require(/home/smartind/Kapada/kapada/config.php): failed to open stream: No such file or directory in /home/smartind/Kapada/send/order_confirmation.php on line 2
+[25-May-2022 04:25:50 UTC] PHP Warning:  require(/home/smartind/Kapada/kapada/config.php): failed to open stream: No such file or directory in /home/smartind/Kapada/send/order_confirmation.php on line 2
+[25-May-2022 04:25:50 UTC] PHP Fatal error:  require(): Failed opening required '/home/smartind/Kapada/kapada/config.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/smartind/Kapada/send/order_confirmation.php on line 2
+[25-May-2022 04:27:26 UTC] PHP Warning:  require(/home/smartind/Kapada/kapada/call/product-details-call.php): failed to open stream: No such file or directory in /home/smartind/Kapada/send/order_confirmation.php on line 67
+[25-May-2022 04:27:26 UTC] PHP Warning:  require(/home/smartind/Kapada/kapada/call/product-details-call.php): failed to open stream: No such file or directory in /home/smartind/Kapada/send/order_confirmation.php on line 67
+[25-May-2022 04:27:26 UTC] PHP Fatal error:  require(): Failed opening required '/home/smartind/Kapada/kapada/call/product-details-call.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/smartind/Kapada/send/order_confirmation.php on line 67
+[25-May-2022 04:33:02 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/smartind/Kapada/call/checkout_call.php on line 3
+[25-May-2022 04:33:04 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/smartind/Kapada/call/checkout_call.php on line 3
+[25-May-2022 04:33:15 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/smartind/Kapada/call/checkout_call.php on line 3
+[25-May-2022 04:33:39 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/smartind/Kapada/call/checkout_call.php on line 3
+[25-May-2022 04:33:49 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/smartind/Kapada/call/checkout_call.php on line 3
+[25-May-2022 04:33:49 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/smartind/Kapada/call/checkout_call.php on line 3
+[25-May-2022 04:34:01 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/smartind/Kapada/call/checkout_call.php on line 3
+[27-May-2022 02:17:06 UTC] PHP Warning:  include(../cart_page_call.php): failed to open stream: No such file or directory in /home/smartind/Kapada/send/add-to-cart-send.php on line 33
+[27-May-2022 02:17:06 UTC] PHP Warning:  include(../cart_page_call.php): failed to open stream: No such file or directory in /home/smartind/Kapada/send/add-to-cart-send.php on line 33
+[27-May-2022 02:17:06 UTC] PHP Warning:  include(): Failed opening '../cart_page_call.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/smartind/Kapada/send/add-to-cart-send.php on line 33
+[27-May-2022 02:17:06 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/smartind/Kapada/session_start.php on line 3
+[27-May-2022 02:17:06 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/smartind/Kapada/send/add-to-cart-send.php:1) in /home/smartind/Kapada/send/add-to-cart-send.php on line 60
+[27-May-2022 02:17:13 UTC] PHP Warning:  include(../cart_page_call.php): failed to open stream: No such file or directory in /home/smartind/Kapada/send/add-to-cart-send.php on line 33
+[27-May-2022 02:17:13 UTC] PHP Warning:  include(../cart_page_call.php): failed to open stream: No such file or directory in /home/smartind/Kapada/send/add-to-cart-send.php on line 33
+[27-May-2022 02:17:13 UTC] PHP Warning:  include(): Failed opening '../cart_page_call.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/smartind/Kapada/send/add-to-cart-send.php on line 33
+[27-May-2022 02:17:13 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/smartind/Kapada/session_start.php on line 3
+[27-May-2022 02:17:13 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/smartind/Kapada/send/add-to-cart-send.php:1) in /home/smartind/Kapada/send/add-to-cart-send.php on line 60
+[27-May-2022 02:19:07 UTC] PHP Warning:  include(../cart_page_call.php): failed to open stream: No such file or directory in /home/smartind/Kapada/send/add-to-cart-send.php on line 12
+[27-May-2022 02:19:07 UTC] PHP Warning:  include(../cart_page_call.php): failed to open stream: No such file or directory in /home/smartind/Kapada/send/add-to-cart-send.php on line 12
+[27-May-2022 02:19:07 UTC] PHP Warning:  include(): Failed opening '../cart_page_call.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/smartind/Kapada/send/add-to-cart-send.php on line 12
+[27-May-2022 02:19:13 UTC] PHP Warning:  include(../cart_page_call.php): failed to open stream: No such file or directory in /home/smartind/Kapada/send/add-to-cart-send.php on line 12
+[27-May-2022 02:19:13 UTC] PHP Warning:  include(../cart_page_call.php): failed to open stream: No such file or directory in /home/smartind/Kapada/send/add-to-cart-send.php on line 12
+[27-May-2022 02:19:13 UTC] PHP Warning:  include(): Failed opening '../cart_page_call.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/smartind/Kapada/send/add-to-cart-send.php on line 12
+[27-May-2022 02:21:13 UTC] PHP Warning:  mysqli_query(): Empty query in /home/smartind/Kapada/send/add-to-cart-send.php on line 28
+[27-May-2022 02:21:31 UTC] PHP Warning:  mysqli_query(): Empty query in /home/smartind/Kapada/send/add-to-cart-send.php on line 28
+[27-May-2022 02:24:42 UTC] PHP Warning:  mysqli_query(): Empty query in /home/smartind/Kapada/send/add-to-cart-send.php on line 28
+[27-May-2022 02:24:51 UTC] PHP Warning:  mysqli_query(): Empty query in /home/smartind/Kapada/send/add-to-cart-send.php on line 28
+[27-May-2022 02:26:28 UTC] PHP Warning:  mysqli_query(): Empty query in /home/smartind/Kapada/send/add-to-cart-send.php on line 28
+[27-May-2022 02:26:44 UTC] PHP Warning:  mysqli_query(): Empty query in /home/smartind/Kapada/send/add-to-cart-send.php on line 28
+[27-May-2022 02:27:53 UTC] PHP Warning:  mysqli_query(): Empty query in /home/smartind/Kapada/send/add-to-cart-send.php on line 28
+[27-May-2022 02:32:08 UTC] PHP Warning:  mysqli_query(): Empty query in /home/smartind/Kapada/send/add-to-cart-send.php on line 29
+[27-May-2022 02:32:16 UTC] PHP Warning:  mysqli_query(): Empty query in /home/smartind/Kapada/send/add-to-cart-send.php on line 29
+[27-May-2022 05:51:05 UTC] PHP Warning:  mysqli_query(): Empty query in /home/smartind/Kapada/send/add-to-cart-send.php on line 29
+[27-May-2022 05:51:14 UTC] PHP Warning:  mysqli_query(): Empty query in /home/smartind/Kapada/send/add-to-cart-send.php on line 29
+[30-May-2022 21:47:12 UTC] PHP Warning:  mysqli_query(): Empty query in /home/smartind/Kapada/send/add-to-cart-send.php on line 29
+[30-May-2022 21:47:21 UTC] PHP Warning:  mysqli_query(): Empty query in /home/smartind/Kapada/send/add-to-cart-send.php on line 29
+[30-May-2022 21:53:35 UTC] PHP Warning:  mysqli_query(): Empty query in /home/smartind/Kapada/send/add-to-cart-send.php on line 31
+[30-May-2022 21:55:01 UTC] PHP Warning:  mysqli_query(): Empty query in /home/smartind/Kapada/send/add-to-cart-send.php on line 31
+[30-May-2022 21:56:36 UTC] PHP Warning:  mysqli_query(): Empty query in /home/smartind/Kapada/send/add-to-cart-send.php on line 33
+[30-May-2022 21:58:16 UTC] PHP Warning:  mysqli_query(): Empty query in /home/smartind/Kapada/send/add-to-cart-send.php on line 33
+[30-May-2022 22:11:04 UTC] PHP Warning:  mysqli_query(): Empty query in /home/smartind/Kapada/send/add-to-cart-send.php on line 33
+[30-May-2022 22:13:34 UTC] PHP Warning:  mysqli_query(): Empty query in /home/smartind/Kapada/send/add-to-cart-send.php on line 35
+[30-May-2022 22:13:43 UTC] PHP Warning:  mysqli_query(): Empty query in /home/smartind/Kapada/send/add-to-cart-send.php on line 35
+[30-May-2022 22:19:26 UTC] PHP Warning:  mysqli_query(): Empty query in /home/smartind/Kapada/send/add-to-cart-send.php on line 35
+[30-May-2022 23:33:08 UTC] PHP Warning:  mysqli_query(): Empty query in /home/smartind/Kapada/send/add-to-cart-send.php on line 35
+[30-May-2022 23:49:00 UTC] PHP Warning:  mysqli_query(): Empty query in /home/smartind/Kapada/send/add-to-cart-send.php on line 33
+[30-May-2022 23:50:24 UTC] PHP Warning:  mysqli_query(): Empty query in /home/smartind/Kapada/send/add-to-cart-send.php on line 32
+[30-May-2022 23:50:37 UTC] PHP Warning:  mysqli_query(): Empty query in /home/smartind/Kapada/send/add-to-cart-send.php on line 32
+[30-May-2022 23:52:01 UTC] PHP Warning:  mysqli_query(): Empty query in /home/smartind/Kapada/send/add-to-cart-send.php on line 32
+[30-May-2022 23:52:14 UTC] PHP Warning:  mysqli_query(): Empty query in /home/smartind/Kapada/send/add-to-cart-send.php on line 32
+[30-May-2022 23:52:21 UTC] PHP Warning:  mysqli_query(): Empty query in /home/smartind/Kapada/send/add-to-cart-send.php on line 32
+[30-May-2022 23:52:25 UTC] PHP Warning:  mysqli_query(): Empty query in /home/smartind/Kapada/send/add-to-cart-send.php on line 32
+[30-May-2022 23:53:50 UTC] PHP Warning:  mysqli_query(): Empty query in /home/smartind/Kapada/send/add-to-cart-send.php on line 32
+[30-May-2022 23:54:29 UTC] PHP Warning:  mysqli_query(): Empty query in /home/smartind/Kapada/send/add-to-cart-send.php on line 31
+[30-May-2022 23:55:12 UTC] PHP Warning:  mysqli_query(): Empty query in /home/smartind/Kapada/send/add-to-cart-send.php on line 33
+[30-May-2022 23:58:32 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/smartind/Kapada/send/add-to-cart-send.php:18) in /home/smartind/Kapada/send/add-to-cart-send.php on line 34
+[30-May-2022 23:58:42 UTC] PHP Warning:  mysqli_query(): Empty query in /home/smartind/Kapada/send/add-to-cart-send.php on line 33
+[30-May-2022 23:58:50 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/smartind/Kapada/send/add-to-cart-send.php:18) in /home/smartind/Kapada/send/add-to-cart-send.php on line 34
+[30-May-2022 23:59:00 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/smartind/Kapada/send/add-to-cart-send.php:18) in /home/smartind/Kapada/send/add-to-cart-send.php on line 34
+[31-May-2022 00:00:56 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/smartind/Kapada/send/add-to-cart-send.php:18) in /home/smartind/Kapada/send/add-to-cart-send.php on line 34
+[31-May-2022 00:06:39 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/smartind/Kapada/send/add-to-cart-send.php:18) in /home/smartind/Kapada/send/add-to-cart-send.php on line 34
+[31-May-2022 00:07:35 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/smartind/Kapada/send/add-to-cart-send.php:18) in /home/smartind/Kapada/send/add-to-cart-send.php on line 34
+[31-May-2022 00:10:37 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/smartind/Kapada/send/add-to-cart-send.php:10) in /home/smartind/Kapada/send/add-to-cart-send.php on line 38
+[31-May-2022 00:11:28 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/smartind/Kapada/send/add-to-cart-send.php:5) in /home/smartind/Kapada/send/add-to-cart-send.php on line 38
+[31-May-2022 00:20:09 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/smartind/Kapada/send/add-to-cart-send.php:5) in /home/smartind/Kapada/send/add-to-cart-send.php on line 44
+[31-May-2022 00:20:19 UTC] PHP Warning:  mysqli_query(): Empty query in /home/smartind/Kapada/send/add-to-cart-send.php on line 43
+[31-May-2022 00:20:28 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/smartind/Kapada/send/add-to-cart-send.php:5) in /home/smartind/Kapada/send/add-to-cart-send.php on line 44
+[31-May-2022 01:18:34 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/smartind/Kapada/send/add-to-cart-send.php:5) in /home/smartind/Kapada/send/add-to-cart-send.php on line 42
+[31-May-2022 01:18:43 UTC] PHP Warning:  mysqli_query(): Empty query in /home/smartind/Kapada/send/add-to-cart-send.php on line 41
+[31-May-2022 01:19:01 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/smartind/Kapada/send/add-to-cart-send.php:5) in /home/smartind/Kapada/send/add-to-cart-send.php on line 42
+[31-May-2022 01:19:06 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/smartind/Kapada/send/add-to-cart-send.php:5) in /home/smartind/Kapada/send/add-to-cart-send.php on line 42
+[31-May-2022 01:19:21 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/smartind/Kapada/send/add-to-cart-send.php:5) in /home/smartind/Kapada/send/add-to-cart-send.php on line 42
+[31-May-2022 01:19:30 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/smartind/Kapada/send/add-to-cart-send.php:5) in /home/smartind/Kapada/send/add-to-cart-send.php on line 42
+[31-May-2022 01:21:16 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/smartind/Kapada/send/add-to-cart-send.php:5) in /home/smartind/Kapada/send/add-to-cart-send.php on line 41
+[31-May-2022 01:21:18 UTC] PHP Warning:  mysqli_query(): Empty query in /home/smartind/Kapada/send/add-to-cart-send.php on line 40
+[31-May-2022 01:21:24 UTC] PHP Warning:  mysqli_query(): Empty query in /home/smartind/Kapada/send/add-to-cart-send.php on line 40
+[31-May-2022 01:21:30 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/smartind/Kapada/send/add-to-cart-send.php:5) in /home/smartind/Kapada/send/add-to-cart-send.php on line 41
+[31-May-2022 01:22:38 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/smartind/Kapada/send/add-to-cart-send.php:5) in /home/smartind/Kapada/send/add-to-cart-send.php on line 38
+[31-May-2022 01:23:09 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/smartind/Kapada/send/add-to-cart-send.php:5) in /home/smartind/Kapada/send/add-to-cart-send.php on line 38
+[31-May-2022 01:24:04 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/smartind/Kapada/send/add-to-cart-send.php:5) in /home/smartind/Kapada/send/add-to-cart-send.php on line 38
+[31-May-2022 01:24:17 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/smartind/Kapada/send/add-to-cart-send.php:5) in /home/smartind/Kapada/send/add-to-cart-send.php on line 38
+[31-May-2022 01:27:31 UTC] PHP Warning:  mysqli_query(): Empty query in /home/smartind/Kapada/send/add-to-cart-send.php on line 34
+[31-May-2022 01:27:53 UTC] PHP Warning:  require(/home/smartind/Kapada/kapada/config.php): failed to open stream: No such file or directory in /home/smartind/Kapada/send/add-to-cart-send.php on line 10
+[31-May-2022 01:27:53 UTC] PHP Warning:  require(/home/smartind/Kapada/kapada/config.php): failed to open stream: No such file or directory in /home/smartind/Kapada/send/add-to-cart-send.php on line 10
+[31-May-2022 01:27:53 UTC] PHP Fatal error:  require(): Failed opening required '/home/smartind/Kapada/kapada/config.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/smartind/Kapada/send/add-to-cart-send.php on line 10
+[31-May-2022 01:27:57 UTC] PHP Warning:  require(/home/smartind/Kapada/kapada/config.php): failed to open stream: No such file or directory in /home/smartind/Kapada/send/add-to-cart-send.php on line 10
+[31-May-2022 01:27:57 UTC] PHP Warning:  require(/home/smartind/Kapada/kapada/config.php): failed to open stream: No such file or directory in /home/smartind/Kapada/send/add-to-cart-send.php on line 10
+[31-May-2022 01:27:57 UTC] PHP Fatal error:  require(): Failed opening required '/home/smartind/Kapada/kapada/config.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/smartind/Kapada/send/add-to-cart-send.php on line 10
+[31-May-2022 01:27:58 UTC] PHP Warning:  require(/home/smartind/Kapada/kapada/config.php): failed to open stream: No such file or directory in /home/smartind/Kapada/send/add-to-cart-send.php on line 10
+[31-May-2022 01:27:58 UTC] PHP Warning:  require(/home/smartind/Kapada/kapada/config.php): failed to open stream: No such file or directory in /home/smartind/Kapada/send/add-to-cart-send.php on line 10
+[31-May-2022 01:27:58 UTC] PHP Fatal error:  require(): Failed opening required '/home/smartind/Kapada/kapada/config.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/smartind/Kapada/send/add-to-cart-send.php on line 10
+[31-May-2022 01:27:58 UTC] PHP Warning:  require(/home/smartind/Kapada/kapada/config.php): failed to open stream: No such file or directory in /home/smartind/Kapada/send/add-to-cart-send.php on line 10
+[31-May-2022 01:27:58 UTC] PHP Warning:  require(/home/smartind/Kapada/kapada/config.php): failed to open stream: No such file or directory in /home/smartind/Kapada/send/add-to-cart-send.php on line 10
+[31-May-2022 01:27:58 UTC] PHP Fatal error:  require(): Failed opening required '/home/smartind/Kapada/kapada/config.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/smartind/Kapada/send/add-to-cart-send.php on line 10
+[31-May-2022 01:29:18 UTC] PHP Warning:  require(/home/smartind/Kapada/kapada/config.php): failed to open stream: No such file or directory in /home/smartind/Kapada/send/add-to-cart-send.php on line 10
+[31-May-2022 01:29:18 UTC] PHP Warning:  require(/home/smartind/Kapada/kapada/config.php): failed to open stream: No such file or directory in /home/smartind/Kapada/send/add-to-cart-send.php on line 10
+[31-May-2022 01:29:18 UTC] PHP Fatal error:  require(): Failed opening required '/home/smartind/Kapada/kapada/config.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/smartind/Kapada/send/add-to-cart-send.php on line 10
+[31-May-2022 01:29:19 UTC] PHP Warning:  require(/home/smartind/Kapada/kapada/config.php): failed to open stream: No such file or directory in /home/smartind/Kapada/send/add-to-cart-send.php on line 10
+[31-May-2022 01:29:19 UTC] PHP Warning:  require(/home/smartind/Kapada/kapada/config.php): failed to open stream: No such file or directory in /home/smartind/Kapada/send/add-to-cart-send.php on line 10
+[31-May-2022 01:29:19 UTC] PHP Fatal error:  require(): Failed opening required '/home/smartind/Kapada/kapada/config.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/smartind/Kapada/send/add-to-cart-send.php on line 10
+[31-May-2022 03:38:40 UTC] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/smartind/Kapada/send/add-to-cart-send.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/smartind/Kapada/send/add-to-cart-send.php on line 34
+[31-May-2022 03:38:41 UTC] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/smartind/Kapada/send/add-to-cart-send.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/smartind/Kapada/send/add-to-cart-send.php on line 34
+[31-May-2022 03:38:50 UTC] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/smartind/Kapada/send/add-to-cart-send.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/smartind/Kapada/send/add-to-cart-send.php on line 34
+[31-May-2022 03:39:17 UTC] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/smartind/Kapada/send/add-to-cart-send.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/smartind/Kapada/send/add-to-cart-send.php on line 34
+[31-May-2022 03:39:21 UTC] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/smartind/Kapada/send/add-to-cart-send.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/smartind/Kapada/send/add-to-cart-send.php on line 34
+[31-May-2022 03:39:21 UTC] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/smartind/Kapada/send/add-to-cart-send.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/smartind/Kapada/send/add-to-cart-send.php on line 34
+[31-May-2022 03:39:21 UTC] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/smartind/Kapada/send/add-to-cart-send.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/smartind/Kapada/send/add-to-cart-send.php on line 34
+[31-May-2022 03:39:21 UTC] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/smartind/Kapada/send/add-to-cart-send.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/smartind/Kapada/send/add-to-cart-send.php on line 34
+[31-May-2022 03:39:21 UTC] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/smartind/Kapada/send/add-to-cart-send.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/smartind/Kapada/send/add-to-cart-send.php on line 34
+[01-Jun-2022 02:02:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function fetch_all() in /home/smartind/Kapada/call/cart_page_call.php:6
+Stack trace:
+#0 /home/smartind/Kapada/send/add-to-cart-send.php(4): include()
+#1 {main}
+  thrown in /home/smartind/Kapada/call/cart_page_call.php on line 6
+[01-Jun-2022 02:02:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function fetch_all() in /home/smartind/Kapada/call/cart_page_call.php:6
+Stack trace:
+#0 /home/smartind/Kapada/send/add-to-cart-send.php(4): include()
+#1 {main}
+  thrown in /home/smartind/Kapada/call/cart_page_call.php on line 6
+[01-Jun-2022 02:02:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function fetch_all() in /home/smartind/Kapada/call/cart_page_call.php:6
+Stack trace:
+#0 /home/smartind/Kapada/send/add-to-cart-send.php(4): include()
+#1 {main}
+  thrown in /home/smartind/Kapada/call/cart_page_call.php on line 6
+[01-Jun-2022 02:02:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function fetch_all() in /home/smartind/Kapada/call/cart_page_call.php:6
+Stack trace:
+#0 /home/smartind/Kapada/send/add-to-cart-send.php(4): include()
+#1 {main}
+  thrown in /home/smartind/Kapada/call/cart_page_call.php on line 6
+[06-Jun-2022 22:16:16 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/smartind/Kapada/send/add-to-cart-send.php on line 19
+[06-Jun-2022 22:16:16 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/smartind/Kapada/send/add-to-cart-send.php on line 20
+[06-Jun-2022 22:16:22 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/smartind/Kapada/send/add-to-cart-send.php on line 19
+[06-Jun-2022 22:16:22 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/smartind/Kapada/send/add-to-cart-send.php on line 20
+[06-Jun-2022 22:16:30 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/smartind/Kapada/send/add-to-cart-send.php on line 19
+[06-Jun-2022 22:16:30 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/smartind/Kapada/send/add-to-cart-send.php on line 20
+[06-Jun-2022 22:17:18 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/smartind/Kapada/send/add-to-cart-send.php on line 18
+[06-Jun-2022 22:17:18 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/smartind/Kapada/send/add-to-cart-send.php on line 19
+[06-Jun-2022 22:49:34 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/smartind/Kapada/send/add-to-cart-send.php on line 18
+[06-Jun-2022 22:49:34 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/smartind/Kapada/send/add-to-cart-send.php on line 19
+[06-Jun-2022 22:57:09 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/smartind/Kapada/send/add-to-cart-send.php on line 18
+[06-Jun-2022 22:57:09 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/smartind/Kapada/send/add-to-cart-send.php on line 19
+[06-Jun-2022 22:58:07 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/smartind/Kapada/send/add-to-cart-send.php on line 18
+[06-Jun-2022 22:58:07 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/smartind/Kapada/send/add-to-cart-send.php on line 19
+[06-Jun-2022 22:58:16 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/smartind/Kapada/send/add-to-cart-send.php on line 18
+[06-Jun-2022 22:58:16 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/smartind/Kapada/send/add-to-cart-send.php on line 19
+[06-Jun-2022 23:05:14 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/smartind/Kapada/send/add-to-cart-send.php on line 18
+[06-Jun-2022 23:05:14 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/smartind/Kapada/send/add-to-cart-send.php on line 19
+[06-Jun-2022 23:05:18 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/smartind/Kapada/send/add-to-cart-send.php on line 18
+[06-Jun-2022 23:05:18 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/smartind/Kapada/send/add-to-cart-send.php on line 19
+[06-Jun-2022 23:06:19 UTC] PHP Fatal error:  Can't use function return value in write context in /home/smartind/Kapada/send/add-to-cart-send.php on line 19
+[06-Jun-2022 23:06:23 UTC] PHP Fatal error:  Can't use function return value in write context in /home/smartind/Kapada/send/add-to-cart-send.php on line 19
+[06-Jun-2022 23:06:25 UTC] PHP Fatal error:  Can't use function return value in write context in /home/smartind/Kapada/send/add-to-cart-send.php on line 19
+[06-Jun-2022 23:06:25 UTC] PHP Fatal error:  Can't use function return value in write context in /home/smartind/Kapada/send/add-to-cart-send.php on line 19
+[06-Jun-2022 23:06:25 UTC] PHP Fatal error:  Can't use function return value in write context in /home/smartind/Kapada/send/add-to-cart-send.php on line 19
+[06-Jun-2022 23:06:47 UTC] PHP Fatal error:  Can't use function return value in write context in /home/smartind/Kapada/send/add-to-cart-send.php on line 19
+[06-Jun-2022 23:06:49 UTC] PHP Fatal error:  Can't use function return value in write context in /home/smartind/Kapada/send/add-to-cart-send.php on line 19
+[06-Jun-2022 23:06:49 UTC] PHP Fatal error:  Can't use function return value in write context in /home/smartind/Kapada/send/add-to-cart-send.php on line 19
+[06-Jun-2022 23:06:49 UTC] PHP Fatal error:  Can't use function return value in write context in /home/smartind/Kapada/send/add-to-cart-send.php on line 19
+[06-Jun-2022 23:06:49 UTC] PHP Fatal error:  Can't use function return value in write context in /home/smartind/Kapada/send/add-to-cart-send.php on line 19
+[06-Jun-2022 23:09:01 UTC] PHP Fatal error:  Can't use function return value in write context in /home/smartind/Kapada/send/add-to-cart-send.php on line 19
+[06-Jun-2022 23:09:03 UTC] PHP Fatal error:  Can't use function return value in write context in /home/smartind/Kapada/send/add-to-cart-send.php on line 19
+[06-Jun-2022 23:13:00 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/smartind/Kapada/send/add-to-cart-send.php on line 18
+[06-Jun-2022 23:13:00 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/smartind/Kapada/send/add-to-cart-send.php on line 19
+[06-Jun-2022 23:13:08 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/smartind/Kapada/send/add-to-cart-send.php on line 18
+[06-Jun-2022 23:13:08 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/smartind/Kapada/send/add-to-cart-send.php on line 19
+[06-Jun-2022 23:13:18 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/smartind/Kapada/send/add-to-cart-send.php on line 18
+[06-Jun-2022 23:13:18 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/smartind/Kapada/send/add-to-cart-send.php on line 19
+[06-Jun-2022 23:13:24 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/smartind/Kapada/send/add-to-cart-send.php on line 18
+[06-Jun-2022 23:13:24 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/smartind/Kapada/send/add-to-cart-send.php on line 19
+[07-Jun-2022 05:36:00 UTC] PHP Fatal error:  Can't use function return value in write context in /home/smartind/Kapada/send/add-to-cart-send.php on line 19
+[07-Jun-2022 05:36:02 UTC] PHP Fatal error:  Can't use function return value in write context in /home/smartind/Kapada/send/add-to-cart-send.php on line 19
+[07-Jun-2022 05:36:09 UTC] PHP Fatal error:  Can't use function return value in write context in /home/smartind/Kapada/send/add-to-cart-send.php on line 19
+[07-Jun-2022 05:37:09 UTC] PHP Fatal error:  Can't use function return value in write context in /home/smartind/Kapada/send/add-to-cart-send.php on line 19
+[07-Jun-2022 05:43:11 UTC] PHP Fatal error:  Can't use function return value in write context in /home/smartind/Kapada/send/add-to-cart-send.php on line 21
+[07-Jun-2022 05:43:17 UTC] PHP Fatal error:  Can't use function return value in write context in /home/smartind/Kapada/send/add-to-cart-send.php on line 21
+[30-Jun-2022 01:28:51 UTC] PHP Warning:  require(/home/smartind/Kapada/kapada/config.php): failed to open stream: No such file or directory in /home/smartind/Kapada/send/size_insert.php on line 4
+[30-Jun-2022 01:28:51 UTC] PHP Warning:  require(/home/smartind/Kapada/kapada/config.php): failed to open stream: No such file or directory in /home/smartind/Kapada/send/size_insert.php on line 4
+[30-Jun-2022 01:28:51 UTC] PHP Fatal error:  require(): Failed opening required '/home/smartind/Kapada/kapada/config.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/smartind/Kapada/send/size_insert.php on line 4
+[30-Jun-2022 02:30:52 UTC] PHP Warning:  include(../call/be_inferface_call.php): failed to open stream: No such file or directory in /home/smartind/Kapada/send/be_delete.php on line 3
+[30-Jun-2022 02:30:52 UTC] PHP Warning:  include(../call/be_inferface_call.php): failed to open stream: No such file or directory in /home/smartind/Kapada/send/be_delete.php on line 3
+[30-Jun-2022 02:30:52 UTC] PHP Warning:  include(): Failed opening '../call/be_inferface_call.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/smartind/Kapada/send/be_delete.php on line 3
+[30-Jun-2022 02:30:52 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/smartind/Kapada/main_header.php:9) in /home/smartind/Kapada/call/admin_detail_call.php on line 5
+[30-Jun-2022 02:31:04 UTC] PHP Warning:  include(../call/be_inferface_call.php): failed to open stream: No such file or directory in /home/smartind/Kapada/send/be_delete.php on line 3
+[30-Jun-2022 02:31:04 UTC] PHP Warning:  include(../call/be_inferface_call.php): failed to open stream: No such file or directory in /home/smartind/Kapada/send/be_delete.php on line 3
+[30-Jun-2022 02:31:04 UTC] PHP Warning:  include(): Failed opening '../call/be_inferface_call.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/smartind/Kapada/send/be_delete.php on line 3
+[30-Jun-2022 02:31:04 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/smartind/Kapada/main_header.php:9) in /home/smartind/Kapada/call/admin_detail_call.php on line 5
+[30-Jun-2022 02:36:32 UTC] PHP Warning:  include(../call/be_inferface_call.php): failed to open stream: No such file or directory in /home/smartind/Kapada/send/be_delete.php on line 3
+[30-Jun-2022 02:36:32 UTC] PHP Warning:  include(../call/be_inferface_call.php): failed to open stream: No such file or directory in /home/smartind/Kapada/send/be_delete.php on line 3
+[30-Jun-2022 02:36:32 UTC] PHP Warning:  include(): Failed opening '../call/be_inferface_call.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/smartind/Kapada/send/be_delete.php on line 3
+[30-Jun-2022 02:36:32 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/smartind/Kapada/main_header.php:9) in /home/smartind/Kapada/call/admin_detail_call.php on line 5
+[30-Jun-2022 02:36:35 UTC] PHP Warning:  include(../call/be_inferface_call.php): failed to open stream: No such file or directory in /home/smartind/Kapada/send/be_delete.php on line 3
+[30-Jun-2022 02:36:35 UTC] PHP Warning:  include(../call/be_inferface_call.php): failed to open stream: No such file or directory in /home/smartind/Kapada/send/be_delete.php on line 3
+[30-Jun-2022 02:36:35 UTC] PHP Warning:  include(): Failed opening '../call/be_inferface_call.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/smartind/Kapada/send/be_delete.php on line 3
+[30-Jun-2022 02:36:35 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/smartind/Kapada/main_header.php:9) in /home/smartind/Kapada/call/admin_detail_call.php on line 5
+[30-Jun-2022 02:41:16 UTC] PHP Warning:  include(../call/be_inferface_call.php): failed to open stream: No such file or directory in /home/smartind/Kapada/send/be_delete.php on line 3
+[30-Jun-2022 02:41:16 UTC] PHP Warning:  include(../call/be_inferface_call.php): failed to open stream: No such file or directory in /home/smartind/Kapada/send/be_delete.php on line 3
+[30-Jun-2022 02:41:16 UTC] PHP Warning:  include(): Failed opening '../call/be_inferface_call.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/smartind/Kapada/send/be_delete.php on line 3
+[30-Jun-2022 02:41:22 UTC] PHP Warning:  include(../call/be_inferface_call.php): failed to open stream: No such file or directory in /home/smartind/Kapada/send/be_delete.php on line 3
+[30-Jun-2022 02:41:22 UTC] PHP Warning:  include(../call/be_inferface_call.php): failed to open stream: No such file or directory in /home/smartind/Kapada/send/be_delete.php on line 3
+[30-Jun-2022 02:41:22 UTC] PHP Warning:  include(): Failed opening '../call/be_inferface_call.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/smartind/Kapada/send/be_delete.php on line 3
+[30-Jun-2022 02:41:49 UTC] PHP Warning:  include(../call/be_inferface_call.php): failed to open stream: No such file or directory in /home/smartind/Kapada/send/be_delete.php on line 3
+[30-Jun-2022 02:41:49 UTC] PHP Warning:  include(../call/be_inferface_call.php): failed to open stream: No such file or directory in /home/smartind/Kapada/send/be_delete.php on line 3
+[30-Jun-2022 02:41:49 UTC] PHP Warning:  include(): Failed opening '../call/be_inferface_call.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/smartind/Kapada/send/be_delete.php on line 3
+[30-Jun-2022 02:42:30 UTC] PHP Warning:  include(../call/be_inferface_call.php): failed to open stream: No such file or directory in /home/smartind/Kapada/send/be_delete.php on line 3
+[30-Jun-2022 02:42:30 UTC] PHP Warning:  include(../call/be_inferface_call.php): failed to open stream: No such file or directory in /home/smartind/Kapada/send/be_delete.php on line 3
+[30-Jun-2022 02:42:30 UTC] PHP Warning:  include(): Failed opening '../call/be_inferface_call.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/smartind/Kapada/send/be_delete.php on line 3
+[30-Jun-2022 02:45:44 UTC] PHP Warning:  include(../call/be_inferface_call.php): failed to open stream: No such file or directory in /home/smartind/Kapada/send/be_delete.php on line 3
+[30-Jun-2022 02:45:44 UTC] PHP Warning:  include(../call/be_inferface_call.php): failed to open stream: No such file or directory in /home/smartind/Kapada/send/be_delete.php on line 3
+[30-Jun-2022 02:45:44 UTC] PHP Warning:  include(): Failed opening '../call/be_inferface_call.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/smartind/Kapada/send/be_delete.php on line 3
+[30-Jun-2022 02:46:29 UTC] PHP Warning:  include(../call/be_inferface_call.php): failed to open stream: No such file or directory in /home/smartind/Kapada/send/be_delete.php on line 3
+[30-Jun-2022 02:46:29 UTC] PHP Warning:  include(../call/be_inferface_call.php): failed to open stream: No such file or directory in /home/smartind/Kapada/send/be_delete.php on line 3
+[30-Jun-2022 02:46:29 UTC] PHP Warning:  include(): Failed opening '../call/be_inferface_call.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/smartind/Kapada/send/be_delete.php on line 3
+[30-Jun-2022 02:47:28 UTC] PHP Warning:  include(../call/be_inferface_call.php): failed to open stream: No such file or directory in /home/smartind/Kapada/send/be_delete.php on line 3
+[30-Jun-2022 02:47:28 UTC] PHP Warning:  include(../call/be_inferface_call.php): failed to open stream: No such file or directory in /home/smartind/Kapada/send/be_delete.php on line 3
+[30-Jun-2022 02:47:28 UTC] PHP Warning:  include(): Failed opening '../call/be_inferface_call.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/smartind/Kapada/send/be_delete.php on line 3
+[19-Jul-2022 01:56:43 UTC] PHP Warning:  A non-numeric value encountered in /home/smartind/Kapada/send/add-to-cart-send.php on line 42
+[26-Sep-2022 09:15:55 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/smartind/Kapada/send/add-to-cart-send.php on line 13

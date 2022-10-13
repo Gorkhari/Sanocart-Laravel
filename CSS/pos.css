@@ -1,0 +1,35 @@
+.pos-main-body-container {
+    display: flex;
+    width: 100%;
+    margin-top: 1%;
+    
+}
+
+.pos-left {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    width: 65%;
+    border: 2px solid green;
+    flex-direction: row;
+}
+
+.pos-right {
+    display: flex;
+    width: 35%;
+    border: 2px solid red;
+}
+
+.pos-main-wide-container {
+    width: 100%;
+}
+
+.main-pos-cat {
+    display: flex;
+    border: 1px solid green;
+}
+.pos-cat-thumb {
+    border: 1px solid black;
+    padding: 5px;
+    margin: 10px;
+}
