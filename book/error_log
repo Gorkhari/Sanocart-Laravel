@@ -1,0 +1,6 @@
+[26-Sep-2022 10:01:44 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/smartind/Kapada/book/session_start.php on line 3
+[26-Sep-2022 10:01:44 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/smartind/Kapada/book/thank_you.php on line 6
+[26-Sep-2022 10:02:05 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/smartind/Kapada/book/session_start.php on line 3
+[26-Sep-2022 10:02:06 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/smartind/Kapada/book/thank_you.php on line 6
+[26-Sep-2022 10:06:12 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/smartind/Kapada/book/session_start.php on line 3
+[26-Sep-2022 10:06:12 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/smartind/Kapada/book/thank_you.php on line 6
