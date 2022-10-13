@@ -1,0 +1,5 @@
+
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^kapada\.smartindoors\.com\.au$
+RewriteRule ^/?$ "https\:\/\/kapada\.smartindoors\.com\.au\/" [R=301,L]
+
